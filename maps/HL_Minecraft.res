@@ -28,6 +28,7 @@ models/player/doc-mine/doc-mine.mdl
 models/player/minecraft/minecraft.mdl
 models/player/muggs/muggs.mdl
 models/player/spaceinvaders/spaceinvaders.mdl
+models/w_chainammo.mdl
 
 maps/hl_minecraft.bsp
 maps/hl_minecraft.res
