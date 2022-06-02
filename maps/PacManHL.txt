@@ -1,0 +1,72 @@
+=======================================================
+PacmanHL: a Map by Dizzy Devil  Release Date: 3/18/04
+=======================================================
+
+Map Name:                       	pacmanhl.bsp
+Filesize:                       	2.10 mb unzipped
+Author:                         	Dizzy Devil
+Author email:                   	ddhlp@cox.net
+Homepage:				http://members.cox.net/ddhlp                    
+wadincluded into BSP:          		pacmanhl.wad
+Game engine:                            Half-Life
+
+=======================================================
+LEVEL DESCRIPTION:
+
+Single Player:                 		No
+Co-Op:                         		No
+Deathmatch:                     	YES
+
+Suggested Players:             		5 - 10
+New Textures:                   	Yes 
+New Sounds:                     	Yes
+New Models:                     	NO
+
+Map description:                	Based of the popular arcade game PacMan.																
+=======================================================
+CONSTRUCTION:
+
+base map:                       	None
+prefabs:                        	None
+editor used:                    	Hammer 3.5 beta
+utilities used:                 	Paintshop Pro 7, Wally, Zoner
+
+known bugs:                     	None
+compile machine:                	AMD Duron  1.4 GHZ
+compile time:                   	10 minutes
+prefabs used:				none
+
+=======================================================
+INSTALLATION:
+
+STEAM:
+Parent Folder(adjust for your drive letter):
+\Program Files\Steam\SteamApps\your_steam_login\half-life\valve\
+
+Serria
+Parent Folder(adjust for your drive letter):
+\Sierra\Half-Life\valve\
+
+
+The pacmanhlreadme.txt file must be included with the pacmanhl.bsp file
+
+======================================================
+
+Sound files found on the web.
+
+=======================================================
+
+Beta Testers:
+
+Team DDHLP
+Team USA
+Team USA-R
+
+Thanx guys!!!!
+
+=======================================================
+Author's notes:
+
+This a fun map. I love doing theme maps. Just one day I wanted to see if I could make a scaled model Of Pacman in Half-Life. Enjoy!
+
+You may NOT use this map or any of the files included to build additional maps without the author's written premission!
