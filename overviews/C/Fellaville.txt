@@ -9,6 +9,6 @@ global
 
 layer 
 {
-	IMAGE	"overviews/fellaville.bmp"
+	IMAGE	"overviews/Fellaville.bmp"
 	HEIGHT	-5.00
 }
