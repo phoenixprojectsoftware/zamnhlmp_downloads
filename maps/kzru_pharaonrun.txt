@@ -1,6 +1,0 @@
-Title              : kzru_pharaonrun
-Version            : Final
-Author             : Inside
-E-mail             : fuckunoob@mail.ru
-Please visit       : climbers.cpms.ru
-Please idle (Q-net): #kzru
