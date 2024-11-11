@@ -1,0 +1,3 @@
+This is teletubbies family player models for Half-Life Deathmatch game.
+leegeek@gmail.com,
+http://dod.is.dreaming.org
